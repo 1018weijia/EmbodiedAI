@@ -27,6 +27,7 @@ python dataset/build_dataset.py --data_root <raw_data_directory> --output_dir <o
 
 - `--data_root`: Root directory containing the original demo folders
 - `--output_dir`: Directory to save the generated `train.json` and `val.json`
+- `raw_data_directory`: [Download link here](https://pan.baidu.com/s/1xnl6e9oNyOp-P25U_cz1CQ?pwd=6666)
 
 ### 2. Build HSSD Dataset (Single Underscore Demos Only)
 
